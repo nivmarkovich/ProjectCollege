@@ -17,7 +17,7 @@ The project focuses on high-performance code and architectural integrity, demons
 ## 💻 Technical Highlights & OOP Principles
 This project serves as a practical application of advanced software engineering concepts:
 
-* [cite_start]**Inheritance & Polymorphism:** Utilized a sophisticated class hierarchy (Base `Person` class) to implement shared behaviors while allowing specialized functionality for different roles[cite: 24].
+* **Inheritance & Polymorphism:** Utilized a sophisticated class hierarchy (Base `Person` class) to implement shared behaviors while allowing specialized functionality for different roles.
 * **Memory Management:** Direct handling of dynamic memory allocation and deallocation to ensure zero memory leaks—critical for JAVA development.
 * **Encapsulation:** Strict adherence to data hiding principles to maintain system security and integrity.
 * **Advanced JAVA Features:** Implementation of Virtual Functions, Templates, and Operator Overloading.

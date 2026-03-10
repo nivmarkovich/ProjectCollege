@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 📌 Project Overview
-[cite_start]This repository contains a robust **Academic Management System** developed in **C++** during my Computer Science studies at **Afeka Academic College of Engineering**. The application simulates a real-world university environment, managing complex relationships between students, faculty members, and academic courses.
+[cite_start]This repository contains a robust **Academic Management System** developed in **JAVA** during my Computer Science studies at **Afeka Academic College of Engineering**. The application simulates a real-world university environment, managing complex relationships between students, faculty members, and academic courses.
 
 The project focuses on high-performance code and architectural integrity, demonstrating deep understanding of system design and memory management.
 
